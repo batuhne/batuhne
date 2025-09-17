@@ -71,7 +71,7 @@
   <a href="https://huggingface.co/batuhne">
     <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-batuhne-FF6F00" />
   </a>
-  <a href="https://instagram.com/batuhne">
+  <a href="https://instagram.com/batuhnne">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-batuhnne-F4405F" />
   </a>
 </p>
