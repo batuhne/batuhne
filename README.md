@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=920&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Always+learning+and+building+with+code;Passionate+about+innovation+and+problem-solving" alt="Typing SVG" />
-</p>
-
----
 
 ## About
 - **Who I am:** Final-year Mathematics student at Izmir Institute of Technology, combining technical and creative skills  
