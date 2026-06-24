@@ -2,7 +2,7 @@
 
 Mathematics graduate and Software & ML Engineer.
 
-Interested in machine learning, deep learning, computer vision, and transformer-based models.
+Interested in machine learning, deep learning, and transformer-based models.
 
 
 ## Tech Stack
